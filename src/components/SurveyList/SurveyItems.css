@@ -1,0 +1,36 @@
+.main-list{
+    background-color: white;
+    margin: 0px 0px 0 50px;
+}
+
+.Survey{
+    display: flex;
+    height: max-content;
+}
+
+.list-page{
+background: #FAFDFF;
+margin: 50px 20px 0px 150px;
+width: 600vh;
+height: 80vh;
+}
+table thead tr th{
+    padding:20px;
+    background-color: #F8FAFF;
+    box-shadow:  12px #00000029;
+    column-span: none;
+    
+}
+
+.table-data {
+    padding: 20px 60px 20px 60px;
+}
+.list-page .search {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 20px 0px 20px;
+}
+.list-page .search input{
+    margin-top: 50px;
+    
+}
